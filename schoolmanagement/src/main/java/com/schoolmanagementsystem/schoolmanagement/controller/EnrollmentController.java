@@ -10,7 +10,7 @@ import org.springframework.web.server.ResponseStatusException;
 import com.schoolmanagementsystem.schoolmanagement.entities.Enrollment;
 import com.schoolmanagementsystem.schoolmanagement.repository.EnrollmentRepo;
 import com.schoolmanagementsystem.schoolmanagement.repository.StudentRepo;
-
+//for enrolling purpose
 @RestController
 public class EnrollmentController {
 
